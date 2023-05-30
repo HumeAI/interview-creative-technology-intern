@@ -1,0 +1,845 @@
+{
+  "location": "New York, NY",
+  "forecast": [
+  {
+    "description": "Cloudy",
+    "date": "2023-05-01T00:00:00.000Z",
+    "temperature": 28
+  },
+  {
+    "description": "Sunny",
+    "date": "2023-05-01T01:00:00.000Z",
+    "temperature": 23
+  },
+  {
+    "description": "Raining",
+    "date": "2023-05-01T02:00:00.000Z",
+    "temperature": 29
+  },
+  {
+    "description": "Cloudy",
+    "date": "2023-05-01T03:00:00.000Z",
+    "temperature": 30
+  },
+  {
+    "description": "Sunny",
+    "date": "2023-05-01T04:00:00.000Z",
+    "temperature": 27
+  },
+  {
+    "description": "Raining",
+    "date": "2023-05-01T05:00:00.000Z",
+    "temperature": 25
+  },
+  {
+    "description": "Cloudy",
+    "date": "2023-05-01T06:00:00.000Z",
+    "temperature": 20
+  },
+  {
+    "description": "Sunny",
+    "date": "2023-05-01T07:00:00.000Z",
+    "temperature": 25
+  },
+  {
+    "description": "Raining",
+    "date": "2023-05-01T08:00:00.000Z",
+    "temperature": 25
+  },
+  {
+    "description": "Cloudy",
+    "date": "2023-05-01T09:00:00.000Z",
+    "temperature": 16
+  },
+  {
+    "description": "Sunny",
+    "date": "2023-05-01T10:00:00.000Z",
+    "temperature": 29
+  },
+  {
+    "description": "Raining",
+    "date": "2023-05-01T11:00:00.000Z",
+    "temperature": 28
+  },
+  {
+    "description": "Cloudy",
+    "date": "2023-05-01T12:00:00.000Z",
+    "temperature": 15
+  },
+  {
+    "description": "Sunny",
+    "date": "2023-05-01T13:00:00.000Z",
+    "temperature": 25
+  },
+  {
+    "description": "Raining",
+    "date": "2023-05-01T14:00:00.000Z",
+    "temperature": 21
+  },
+  {
+    "description": "Cloudy",
+    "date": "2023-05-01T15:00:00.000Z",
+    "temperature": 21
+  },
+  {
+    "description": "Sunny",
+    "date": "2023-05-01T16:00:00.000Z",
+    "temperature": 30
+  },
+  {
+    "description": "Raining",
+    "date": "2023-05-01T17:00:00.000Z",
+    "temperature": 22
+  },
+  {
+    "description": "Cloudy",
+    "date": "2023-05-01T18:00:00.000Z",
+    "temperature": 25
+  },
+  {
+    "description": "Sunny",
+    "date": "2023-05-01T19:00:00.000Z",
+    "temperature": 25
+  },
+  {
+    "description": "Raining",
+    "date": "2023-05-01T20:00:00.000Z",
+    "temperature": 29
+  },
+  {
+    "description": "Cloudy",
+    "date": "2023-05-01T21:00:00.000Z",
+    "temperature": 17
+  },
+  {
+    "description": "Sunny",
+    "date": "2023-05-01T22:00:00.000Z",
+    "temperature": 24
+  },
+  {
+    "description": "Raining",
+    "date": "2023-05-01T23:00:00.000Z",
+    "temperature": 26
+  },
+  {
+    "description": "Cloudy",
+    "date": "2023-05-02T00:00:00.000Z",
+    "temperature": 26
+  },
+  {
+    "description": "Sunny",
+    "date": "2023-05-02T01:00:00.000Z",
+    "temperature": 16
+  },
+  {
+    "description": "Raining",
+    "date": "2023-05-02T02:00:00.000Z",
+    "temperature": 29
+  },
+  {
+    "description": "Cloudy",
+    "date": "2023-05-02T03:00:00.000Z",
+    "temperature": 29
+  },
+  {
+    "description": "Sunny",
+    "date": "2023-05-02T04:00:00.000Z",
+    "temperature": 19
+  },
+  {
+    "description": "Raining",
+    "date": "2023-05-02T05:00:00.000Z",
+    "temperature": 25
+  },
+  {
+    "description": "Cloudy",
+    "date": "2023-05-02T06:00:00.000Z",
+    "temperature": 29
+  },
+  {
+    "description": "Sunny",
+    "date": "2023-05-02T07:00:00.000Z",
+    "temperature": 21
+  },
+  {
+    "description": "Raining",
+    "date": "2023-05-02T08:00:00.000Z",
+    "temperature": 27
+  },
+  {
+    "description": "Cloudy",
+    "date": "2023-05-02T09:00:00.000Z",
+    "temperature": 29
+  },
+  {
+    "description": "Sunny",
+    "date": "2023-05-02T10:00:00.000Z",
+    "temperature": 21
+  },
+  {
+    "description": "Raining",
+    "date": "2023-05-02T11:00:00.000Z",
+    "temperature": 15
+  },
+  {
+    "description": "Cloudy",
+    "date": "2023-05-02T12:00:00.000Z",
+    "temperature": 28
+  },
+  {
+    "description": "Sunny",
+    "date": "2023-05-02T13:00:00.000Z",
+    "temperature": 20
+  },
+  {
+    "description": "Raining",
+    "date": "2023-05-02T14:00:00.000Z",
+    "temperature": 28
+  },
+  {
+    "description": "Cloudy",
+    "date": "2023-05-02T15:00:00.000Z",
+    "temperature": 15
+  },
+  {
+    "description": "Sunny",
+    "date": "2023-05-02T16:00:00.000Z",
+    "temperature": 20
+  },
+  {
+    "description": "Raining",
+    "date": "2023-05-02T17:00:00.000Z",
+    "temperature": 19
+  },
+  {
+    "description": "Cloudy",
+    "date": "2023-05-02T18:00:00.000Z",
+    "temperature": 24
+  },
+  {
+    "description": "Sunny",
+    "date": "2023-05-02T19:00:00.000Z",
+    "temperature": 26
+  },
+  {
+    "description": "Raining",
+    "date": "2023-05-02T20:00:00.000Z",
+    "temperature": 26
+  },
+  {
+    "description": "Cloudy",
+    "date": "2023-05-02T21:00:00.000Z",
+    "temperature": 15
+  },
+  {
+    "description": "Sunny",
+    "date": "2023-05-02T22:00:00.000Z",
+    "temperature": 20
+  },
+  {
+    "description": "Raining",
+    "date": "2023-05-02T23:00:00.000Z",
+    "temperature": 30
+  },
+  {
+    "description": "Cloudy",
+    "date": "2023-05-03T00:00:00.000Z",
+    "temperature": 20
+  },
+  {
+    "description": "Sunny",
+    "date": "2023-05-03T01:00:00.000Z",
+    "temperature": 26
+  },
+  {
+    "description": "Raining",
+    "date": "2023-05-03T02:00:00.000Z",
+    "temperature": 27
+  },
+  {
+    "description": "Cloudy",
+    "date": "2023-05-03T03:00:00.000Z",
+    "temperature": 28
+  },
+  {
+    "description": "Sunny",
+    "date": "2023-05-03T04:00:00.000Z",
+    "temperature": 18
+  },
+  {
+    "description": "Raining",
+    "date": "2023-05-03T05:00:00.000Z",
+    "temperature": 29
+  },
+  {
+    "description": "Cloudy",
+    "date": "2023-05-03T06:00:00.000Z",
+    "temperature": 29
+  },
+  {
+    "description": "Sunny",
+    "date": "2023-05-03T07:00:00.000Z",
+    "temperature": 29
+  },
+  {
+    "description": "Raining",
+    "date": "2023-05-03T08:00:00.000Z",
+    "temperature": 16
+  },
+  {
+    "description": "Cloudy",
+    "date": "2023-05-03T09:00:00.000Z",
+    "temperature": 20
+  },
+  {
+    "description": "Sunny",
+    "date": "2023-05-03T10:00:00.000Z",
+    "temperature": 23
+  },
+  {
+    "description": "Raining",
+    "date": "2023-05-03T11:00:00.000Z",
+    "temperature": 29
+  },
+  {
+    "description": "Cloudy",
+    "date": "2023-05-03T12:00:00.000Z",
+    "temperature": 25
+  },
+  {
+    "description": "Sunny",
+    "date": "2023-05-03T13:00:00.000Z",
+    "temperature": 29
+  },
+  {
+    "description": "Raining",
+    "date": "2023-05-03T14:00:00.000Z",
+    "temperature": 20
+  },
+  {
+    "description": "Cloudy",
+    "date": "2023-05-03T15:00:00.000Z",
+    "temperature": 27
+  },
+  {
+    "description": "Sunny",
+    "date": "2023-05-03T16:00:00.000Z",
+    "temperature": 26
+  },
+  {
+    "description": "Raining",
+    "date": "2023-05-03T17:00:00.000Z",
+    "temperature": 17
+  },
+  {
+    "description": "Cloudy",
+    "date": "2023-05-03T18:00:00.000Z",
+    "temperature": 30
+  },
+  {
+    "description": "Sunny",
+    "date": "2023-05-03T19:00:00.000Z",
+    "temperature": 15
+  },
+  {
+    "description": "Raining",
+    "date": "2023-05-03T20:00:00.000Z",
+    "temperature": 17
+  },
+  {
+    "description": "Cloudy",
+    "date": "2023-05-03T21:00:00.000Z",
+    "temperature": 27
+  },
+  {
+    "description": "Sunny",
+    "date": "2023-05-03T22:00:00.000Z",
+    "temperature": 20
+  },
+  {
+    "description": "Raining",
+    "date": "2023-05-03T23:00:00.000Z",
+    "temperature": 19
+  },
+  {
+    "description": "Cloudy",
+    "date": "2023-05-04T00:00:00.000Z",
+    "temperature": 19
+  },
+  {
+    "description": "Sunny",
+    "date": "2023-05-04T01:00:00.000Z",
+    "temperature": 24
+  },
+  {
+    "description": "Raining",
+    "date": "2023-05-04T02:00:00.000Z",
+    "temperature": 16
+  },
+  {
+    "description": "Cloudy",
+    "date": "2023-05-04T03:00:00.000Z",
+    "temperature": 16
+  },
+  {
+    "description": "Sunny",
+    "date": "2023-05-04T04:00:00.000Z",
+    "temperature": 28
+  },
+  {
+    "description": "Raining",
+    "date": "2023-05-04T05:00:00.000Z",
+    "temperature": 28
+  },
+  {
+    "description": "Cloudy",
+    "date": "2023-05-04T06:00:00.000Z",
+    "temperature": 19
+  },
+  {
+    "description": "Sunny",
+    "date": "2023-05-04T07:00:00.000Z",
+    "temperature": 15
+  },
+  {
+    "description": "Raining",
+    "date": "2023-05-04T08:00:00.000Z",
+    "temperature": 18
+  },
+  {
+    "description": "Cloudy",
+    "date": "2023-05-04T09:00:00.000Z",
+    "temperature": 26
+  },
+  {
+    "description": "Sunny",
+    "date": "2023-05-04T10:00:00.000Z",
+    "temperature": 24
+  },
+  {
+    "description": "Raining",
+    "date": "2023-05-04T11:00:00.000Z",
+    "temperature": 22
+  },
+  {
+    "description": "Cloudy",
+    "date": "2023-05-04T12:00:00.000Z",
+    "temperature": 25
+  },
+  {
+    "description": "Sunny",
+    "date": "2023-05-04T13:00:00.000Z",
+    "temperature": 22
+  },
+  {
+    "description": "Raining",
+    "date": "2023-05-04T14:00:00.000Z",
+    "temperature": 30
+  },
+  {
+    "description": "Cloudy",
+    "date": "2023-05-04T15:00:00.000Z",
+    "temperature": 24
+  },
+  {
+    "description": "Sunny",
+    "date": "2023-05-04T16:00:00.000Z",
+    "temperature": 27
+  },
+  {
+    "description": "Raining",
+    "date": "2023-05-04T17:00:00.000Z",
+    "temperature": 29
+  },
+  {
+    "description": "Cloudy",
+    "date": "2023-05-04T18:00:00.000Z",
+    "temperature": 30
+  },
+  {
+    "description": "Sunny",
+    "date": "2023-05-04T19:00:00.000Z",
+    "temperature": 22
+  },
+  {
+    "description": "Raining",
+    "date": "2023-05-04T20:00:00.000Z",
+    "temperature": 29
+  },
+  {
+    "description": "Cloudy",
+    "date": "2023-05-04T21:00:00.000Z",
+    "temperature": 17
+  },
+  {
+    "description": "Sunny",
+    "date": "2023-05-04T22:00:00.000Z",
+    "temperature": 22
+  },
+  {
+    "description": "Raining",
+    "date": "2023-05-04T23:00:00.000Z",
+    "temperature": 26
+  },
+  {
+    "description": "Cloudy",
+    "date": "2023-05-05T00:00:00.000Z",
+    "temperature": 17
+  },
+  {
+    "description": "Sunny",
+    "date": "2023-05-05T01:00:00.000Z",
+    "temperature": 22
+  },
+  {
+    "description": "Raining",
+    "date": "2023-05-05T02:00:00.000Z",
+    "temperature": 16
+  },
+  {
+    "description": "Cloudy",
+    "date": "2023-05-05T03:00:00.000Z",
+    "temperature": 21
+  },
+  {
+    "description": "Sunny",
+    "date": "2023-05-05T04:00:00.000Z",
+    "temperature": 17
+  },
+  {
+    "description": "Raining",
+    "date": "2023-05-05T05:00:00.000Z",
+    "temperature": 23
+  },
+  {
+    "description": "Cloudy",
+    "date": "2023-05-05T06:00:00.000Z",
+    "temperature": 23
+  },
+  {
+    "description": "Sunny",
+    "date": "2023-05-05T07:00:00.000Z",
+    "temperature": 15
+  },
+  {
+    "description": "Raining",
+    "date": "2023-05-05T08:00:00.000Z",
+    "temperature": 28
+  },
+  {
+    "description": "Cloudy",
+    "date": "2023-05-05T09:00:00.000Z",
+    "temperature": 15
+  },
+  {
+    "description": "Sunny",
+    "date": "2023-05-05T10:00:00.000Z",
+    "temperature": 26
+  },
+  {
+    "description": "Raining",
+    "date": "2023-05-05T11:00:00.000Z",
+    "temperature": 23
+  },
+  {
+    "description": "Cloudy",
+    "date": "2023-05-05T12:00:00.000Z",
+    "temperature": 30
+  },
+  {
+    "description": "Sunny",
+    "date": "2023-05-05T13:00:00.000Z",
+    "temperature": 25
+  },
+  {
+    "description": "Raining",
+    "date": "2023-05-05T14:00:00.000Z",
+    "temperature": 29
+  },
+  {
+    "description": "Cloudy",
+    "date": "2023-05-05T15:00:00.000Z",
+    "temperature": 20
+  },
+  {
+    "description": "Sunny",
+    "date": "2023-05-05T16:00:00.000Z",
+    "temperature": 29
+  },
+  {
+    "description": "Raining",
+    "date": "2023-05-05T17:00:00.000Z",
+    "temperature": 21
+  },
+  {
+    "description": "Cloudy",
+    "date": "2023-05-05T18:00:00.000Z",
+    "temperature": 19
+  },
+  {
+    "description": "Sunny",
+    "date": "2023-05-05T19:00:00.000Z",
+    "temperature": 27
+  },
+  {
+    "description": "Raining",
+    "date": "2023-05-05T20:00:00.000Z",
+    "temperature": 17
+  },
+  {
+    "description": "Cloudy",
+    "date": "2023-05-05T21:00:00.000Z",
+    "temperature": 22
+  },
+  {
+    "description": "Sunny",
+    "date": "2023-05-05T22:00:00.000Z",
+    "temperature": 22
+  },
+  {
+    "description": "Raining",
+    "date": "2023-05-05T23:00:00.000Z",
+    "temperature": 29
+  },
+  {
+    "description": "Cloudy",
+    "date": "2023-05-06T00:00:00.000Z",
+    "temperature": 23
+  },
+  {
+    "description": "Sunny",
+    "date": "2023-05-06T01:00:00.000Z",
+    "temperature": 21
+  },
+  {
+    "description": "Raining",
+    "date": "2023-05-06T02:00:00.000Z",
+    "temperature": 28
+  },
+  {
+    "description": "Cloudy",
+    "date": "2023-05-06T03:00:00.000Z",
+    "temperature": 27
+  },
+  {
+    "description": "Sunny",
+    "date": "2023-05-06T04:00:00.000Z",
+    "temperature": 20
+  },
+  {
+    "description": "Raining",
+    "date": "2023-05-06T05:00:00.000Z",
+    "temperature": 17
+  },
+  {
+    "description": "Cloudy",
+    "date": "2023-05-06T06:00:00.000Z",
+    "temperature": 24
+  },
+  {
+    "description": "Sunny",
+    "date": "2023-05-06T07:00:00.000Z",
+    "temperature": 26
+  },
+  {
+    "description": "Raining",
+    "date": "2023-05-06T08:00:00.000Z",
+    "temperature": 25
+  },
+  {
+    "description": "Cloudy",
+    "date": "2023-05-06T09:00:00.000Z",
+    "temperature": 15
+  },
+  {
+    "description": "Sunny",
+    "date": "2023-05-06T10:00:00.000Z",
+    "temperature": 23
+  },
+  {
+    "description": "Raining",
+    "date": "2023-05-06T11:00:00.000Z",
+    "temperature": 17
+  },
+  {
+    "description": "Cloudy",
+    "date": "2023-05-06T12:00:00.000Z",
+    "temperature": 25
+  },
+  {
+    "description": "Sunny",
+    "date": "2023-05-06T13:00:00.000Z",
+    "temperature": 18
+  },
+  {
+    "description": "Raining",
+    "date": "2023-05-06T14:00:00.000Z",
+    "temperature": 18
+  },
+  {
+    "description": "Cloudy",
+    "date": "2023-05-06T15:00:00.000Z",
+    "temperature": 15
+  },
+  {
+    "description": "Sunny",
+    "date": "2023-05-06T16:00:00.000Z",
+    "temperature": 19
+  },
+  {
+    "description": "Raining",
+    "date": "2023-05-06T17:00:00.000Z",
+    "temperature": 18
+  },
+  {
+    "description": "Cloudy",
+    "date": "2023-05-06T18:00:00.000Z",
+    "temperature": 19
+  },
+  {
+    "description": "Sunny",
+    "date": "2023-05-06T19:00:00.000Z",
+    "temperature": 15
+  },
+  {
+    "description": "Raining",
+    "date": "2023-05-06T20:00:00.000Z",
+    "temperature": 15
+  },
+  {
+    "description": "Cloudy",
+    "date": "2023-05-06T21:00:00.000Z",
+    "temperature": 25
+  },
+  {
+    "description": "Sunny",
+    "date": "2023-05-06T22:00:00.000Z",
+    "temperature": 27
+  },
+  {
+    "description": "Raining",
+    "date": "2023-05-06T23:00:00.000Z",
+    "temperature": 17
+  },
+  {
+    "description": "Cloudy",
+    "date": "2023-05-07T00:00:00.000Z",
+    "temperature": 30
+  },
+  {
+    "description": "Sunny",
+    "date": "2023-05-07T01:00:00.000Z",
+    "temperature": 22
+  },
+  {
+    "description": "Raining",
+    "date": "2023-05-07T02:00:00.000Z",
+    "temperature": 30
+  },
+  {
+    "description": "Cloudy",
+    "date": "2023-05-07T03:00:00.000Z",
+    "temperature": 28
+  },
+  {
+    "description": "Sunny",
+    "date": "2023-05-07T04:00:00.000Z",
+    "temperature": 27
+  },
+  {
+    "description": "Raining",
+    "date": "2023-05-07T05:00:00.000Z",
+    "temperature": 20
+  },
+  {
+    "description": "Cloudy",
+    "date": "2023-05-07T06:00:00.000Z",
+    "temperature": 26
+  },
+  {
+    "description": "Sunny",
+    "date": "2023-05-07T07:00:00.000Z",
+    "temperature": 22
+  },
+  {
+    "description": "Raining",
+    "date": "2023-05-07T08:00:00.000Z",
+    "temperature": 30
+  },
+  {
+    "description": "Cloudy",
+    "date": "2023-05-07T09:00:00.000Z",
+    "temperature": 16
+  },
+  {
+    "description": "Sunny",
+    "date": "2023-05-07T10:00:00.000Z",
+    "temperature": 23
+  },
+  {
+    "description": "Raining",
+    "date": "2023-05-07T11:00:00.000Z",
+    "temperature": 27
+  },
+  {
+    "description": "Cloudy",
+    "date": "2023-05-07T12:00:00.000Z",
+    "temperature": 24
+  },
+  {
+    "description": "Sunny",
+    "date": "2023-05-07T13:00:00.000Z",
+    "temperature": 18
+  },
+  {
+    "description": "Raining",
+    "date": "2023-05-07T14:00:00.000Z",
+    "temperature": 28
+  },
+  {
+    "description": "Cloudy",
+    "date": "2023-05-07T15:00:00.000Z",
+    "temperature": 30
+  },
+  {
+    "description": "Sunny",
+    "date": "2023-05-07T16:00:00.000Z",
+    "temperature": 15
+  },
+  {
+    "description": "Raining",
+    "date": "2023-05-07T17:00:00.000Z",
+    "temperature": 24
+  },
+  {
+    "description": "Cloudy",
+    "date": "2023-05-07T18:00:00.000Z",
+    "temperature": 22
+  },
+  {
+    "description": "Sunny",
+    "date": "2023-05-07T19:00:00.000Z",
+    "temperature": 26
+  },
+  {
+    "description": "Raining",
+    "date": "2023-05-07T20:00:00.000Z",
+    "temperature": 19
+  },
+  {
+    "description": "Cloudy",
+    "date": "2023-05-07T21:00:00.000Z",
+    "temperature": 15
+  },
+  {
+    "description": "Sunny",
+    "date": "2023-05-07T22:00:00.000Z",
+    "temperature": 26
+  },
+  {
+    "description": "Raining",
+    "date": "2023-05-07T23:00:00.000Z",
+    "temperature": 25
+  }
+]
+}

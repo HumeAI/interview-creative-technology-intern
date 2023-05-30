@@ -1,0 +1,45 @@
+:root {
+  --dark-gray: #1F1F1F;
+  --white: #FFFFFF;
+}
+
+html {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color: var(--white);
+  background-color: var(--dark-gray);
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+#app {
+  margin: auto;
+}
+
+#weather {
+  width: 256px;
+  background: var(--white);
+  border-radius: 10px;
+}
+
+#weather .current-weather {
+  display:flex;
+  justify-content: space-between;
+  padding: 10px;
+  color: var(--dark-gray);
+}
+
