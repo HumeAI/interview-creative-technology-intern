@@ -1,34 +1,34 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
+import data from '../../__shared/forecast.json';
+import sunnyIcon from '../../__shared/sunny.svg';
+import cloudyIcon from '../../__shared/cloudy.svg';
+import rainingIcon from '../../__shared/raining.svg';
+
+const icons = {
+  Sunny: sunnyIcon,
+  Cloudy: cloudyIcon,
+  Raining: rainingIcon
+}
+
+// for prototype, we fix this to an arbitrary date within the static data set
+const now = new Date('2023-05-01T13:00:00.000Z');
 
 function App() {
-  const [count, setCount] = useState(0)
+  const weather = data.forecast.find((item) => {
+    return new Date(item.date).getTime() === now.getTime();
+  })
 
   return (
-    <>
-      <div>
-        <a href="https://vitejs.dev" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
+    <div id="weather">
+      <div className='current-weather'>
+        <div>
+          <div>{weather.temperature}ºF</div>
+          <div>{data.location}</div>
+        </div>
+        <div>
+          <img src={icons[weather.description]} width="40" height="40" />
+        </div>
       </div>
-      <h1>Vite + React</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.jsx</code> and save to test HMR
-        </p>
-      </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
-    </>
+    </div>
   )
 }
 
