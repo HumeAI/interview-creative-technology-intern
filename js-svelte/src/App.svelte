@@ -1,47 +1,39 @@
 <script>
-  import svelteLogo from './assets/svelte.svg'
-  import viteLogo from '/vite.svg'
-  import Counter from './lib/Counter.svelte'
+  import data from "../../__shared/forecast.json";
+  import sunnyIcon from "../../__shared/sunny.svg";
+  import cloudyIcon from "../../__shared/cloudy.svg";
+  import rainingIcon from "../../__shared/raining.svg";
+
+  const icons = {
+    Sunny: sunnyIcon,
+    Cloudy: cloudyIcon,
+    Raining: rainingIcon,
+  };
+
+  // for prototype, we fix this to an arbitrary date within the static data set
+  const now = new Date("2023-05-01T13:00:00.000Z");
+
+  const weather = data.forecast.find((item) => {
+    return new Date(item.date).getTime() === now.getTime();
+  });
 </script>
 
-<main>
-  <div>
-    <a href="https://vitejs.dev" target="_blank" rel="noreferrer">
-      <img src={viteLogo} class="logo" alt="Vite Logo" />
-    </a>
-    <a href="https://svelte.dev" target="_blank" rel="noreferrer">
-      <img src={svelteLogo} class="logo svelte" alt="Svelte Logo" />
-    </a>
+<div id="weather">
+  <div class="current-weather">
+    <div>
+      <div>{weather.temperature}ºF</div>
+      <div>{data.location}</div>
+    </div>
+    <div>
+      <img
+        src={icons[weather.description]}
+        width="40"
+        height="40"
+        alt={weather.description}
+      />
+    </div>
   </div>
-  <h1>Vite + Svelte</h1>
-
-  <div class="card">
-    <Counter />
-  </div>
-
-  <p>
-    Check out <a href="https://github.com/sveltejs/kit#readme" target="_blank" rel="noreferrer">SvelteKit</a>, the official Svelte app framework powered by Vite!
-  </p>
-
-  <p class="read-the-docs">
-    Click on the Vite and Svelte logos to learn more
-  </p>
-</main>
+</div>
 
 <style>
-  .logo {
-    height: 6em;
-    padding: 1.5em;
-    will-change: filter;
-    transition: filter 300ms;
-  }
-  .logo:hover {
-    filter: drop-shadow(0 0 2em #646cffaa);
-  }
-  .logo.svelte:hover {
-    filter: drop-shadow(0 0 2em #ff3e00aa);
-  }
-  .read-the-docs {
-    color: #888;
-  }
 </style>
