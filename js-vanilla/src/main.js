@@ -1,7 +1,7 @@
-import data from '../../__shared/forecast.json';
-import sunnyIcon from '../../__shared/sunny.svg';
-import cloudyIcon from '../../__shared/cloudy.svg';
-import rainingIcon from '../../__shared/raining.svg';
+import data from './data/forecast.json';
+import sunnyIcon from './assets/sunny.svg';
+import cloudyIcon from './assets/cloudy.svg';
+import rainingIcon from './assets/raining.svg';
 
 const icons = {
   Sunny: sunnyIcon,
